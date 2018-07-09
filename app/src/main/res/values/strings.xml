@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cooker_android</string>
+    <string name="recipes">Recipes</string>
+    <string name="search">Search</string>
+    <string name="search_by_ingredients">Search by ingredients</string>
+    <string name="categories">Categories</string>
+    <string name="search_hint">search by keyword</string>
+    <string name="addRecipe">Add Recipe</string>
+    <string name="name">Name</string>
+    <string name="time">Time</string>
+    <string name="minutes">How much time it takes (in minutes)</string>
+    <string name="procedure">Procedure</string>
+    <string name="save">Save</string>
+    <string name="Add">Add</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="addIngredient">Add Ingredient</string>
+    <string name="liter">Liter</string>
+    <string name="kilo">Kilo</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="chosen_ingredients">Chosen Ingredients</string>
+</resources>
